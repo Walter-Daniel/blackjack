@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #2F4F30;
+    color: #fff;
+}
+.titulo {
+    background: #000;
+}
+.cartas {
+    width: 150px;
+}
+.cartas img {
+    width: 100%;
+    position: relative;
+    left: 100px;
+    margin-left: -75px;
+}
